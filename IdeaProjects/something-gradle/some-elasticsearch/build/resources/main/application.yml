@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev
+
+  application:
+    name: esServer
+  elasticsearch:
+    rest:
+      uris: http://172.20.10.10:9200
+
+server:
+  port: 8080
+
+test: 123
+age : 20

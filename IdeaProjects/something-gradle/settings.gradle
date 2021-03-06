@@ -1,0 +1,5 @@
+rootProject.name = 'something-gradle'
+include 'some-elasticsearch'
+include 'some-flink'
+include 'some-hbase'
+

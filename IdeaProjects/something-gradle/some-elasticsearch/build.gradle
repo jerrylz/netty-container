@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jerrylz'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+	maven { url 'https://maven.aliyun.com/nexus/content/groups/public/'}
+    maven { url 'https://maven.aliyun.com/nexus/content/repositories/jcenter' }
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.3.3.RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-test', version: '2.3.3.RELEASE'
+//    compile group: 'org.elasticsearch', name: 'elasticsearch', version: '6.7.0'
+//    compile group: 'org.elasticsearch.client', name: 'elasticsearch-rest-high-level-client', version: '6.7.0'
+//    compile group: 'org.elasticsearch.client', name: 'elasticsearch-rest-client', version: '6.7.0'
+    compile group: 'cn.hutool', name: 'hutool-all', version: '5.4.0'
+    compile group: 'org.apache.httpcomponents', name: 'httpmime', version: '4.5.2'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.projectlombok', name: 'lombok', version: '1.18.12'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.12'
+    compile group: 'commons-net', name: 'commons-net', version: '3.7'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-data-elasticsearch', version: '2.3.3.RELEASE'
+// https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-aop
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-aop', version: '2.3.3.RELEASE'
+
+
+}

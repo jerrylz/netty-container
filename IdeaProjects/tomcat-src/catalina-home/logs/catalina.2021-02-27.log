@@ -1,0 +1,131 @@
+27-Feb-2021 09:55:39.107 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·:      @VERSION_NUMBER@
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Mac OS X
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.16
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              x86_64
+27-Feb-2021 09:55:39.128 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     /Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre
+27-Feb-2021 09:55:39.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_241-b07
+27-Feb-2021 09:55:39.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+27-Feb-2021 09:55:39.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 09:55:39.129 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 09:55:39.131 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.home=catalina-home
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.base=catalina-home
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.endorsed.dirs=catalina-home/endorsed
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.io.tmpdir=catalina-home/temp
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=50954:/Applications/IntelliJ IDEA.app/Contents/bin
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dfile.encoding=UTF-8
+27-Feb-2021 09:55:39.132 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[/Users/jerrylz/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+27-Feb-2021 09:55:39.681 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+27-Feb-2021 09:55:39.891 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Feb-2021 09:55:39.958 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 3881 ms
+27-Feb-2021 09:55:40.148 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+27-Feb-2021 09:55:40.150 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+27-Feb-2021 09:55:40.166 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]
+27-Feb-2021 09:55:41.096 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]çé¨ç½²å·²å¨[919]æ¯«ç§åå®æ
+27-Feb-2021 09:55:41.097 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]
+27-Feb-2021 09:55:41.342 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]çé¨ç½²å·²å¨[244]æ¯«ç§åå®æ
+27-Feb-2021 09:55:41.342 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]
+27-Feb-2021 09:55:41.670 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+27-Feb-2021 09:55:41.673 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+27-Feb-2021 09:55:41.697 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]çé¨ç½²å·²å¨[355]æ¯«ç§åå®æ
+27-Feb-2021 09:55:41.698 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]
+27-Feb-2021 09:55:41.880 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]çé¨ç½²å·²å¨[182]æ¯«ç§åå®æ
+27-Feb-2021 09:55:41.881 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]
+27-Feb-2021 09:55:42.179 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]çé¨ç½²å·²å¨[297]æ¯«ç§åå®æ
+27-Feb-2021 09:55:42.189 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+27-Feb-2021 09:55:42.213 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2251 ms
+27-Feb-2021 09:55:49.027 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause æåProtocolHandler["http-nio-8080"]
+27-Feb-2021 09:55:49.048 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal æ­£å¨åæ­¢æå¡[Catalina]
+27-Feb-2021 09:55:49.072 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop æ­£å¨åæ­¢ProtocolHandler ["http-nio-8080"]
+27-Feb-2021 09:55:49.079 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
+27-Feb-2021 09:58:05.866 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+27-Feb-2021 09:58:05.873 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+27-Feb-2021 09:58:05.873 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·:      @VERSION_NUMBER@
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Mac OS X
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.16
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              x86_64
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     /Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_241-b07
+27-Feb-2021 09:58:05.874 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+27-Feb-2021 09:58:05.875 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 09:58:05.876 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 09:58:05.879 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:51579,suspend=y,server=n
+27-Feb-2021 09:58:05.882 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.home=catalina-home
+27-Feb-2021 09:58:05.882 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.base=catalina-home
+27-Feb-2021 09:58:05.883 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.endorsed.dirs=catalina-home/endorsed
+27-Feb-2021 09:58:05.883 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.io.tmpdir=catalina-home/temp
+27-Feb-2021 09:58:05.883 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2021 09:58:05.884 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+27-Feb-2021 09:58:05.884 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -javaagent:/Users/jerrylz/Library/Caches/IntelliJIdea2019.3/captureAgent/debugger-agent.jar
+27-Feb-2021 09:58:05.884 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dfile.encoding=UTF-8
+27-Feb-2021 09:58:05.884 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[/Users/jerrylz/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+27-Feb-2021 09:58:06.273 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+27-Feb-2021 09:58:06.359 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Feb-2021 09:58:06.389 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1910 ms
+27-Feb-2021 09:58:06.515 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+27-Feb-2021 09:58:06.516 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+27-Feb-2021 09:58:06.590 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]
+27-Feb-2021 09:58:07.231 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]çé¨ç½²å·²å¨[640]æ¯«ç§åå®æ
+27-Feb-2021 09:58:07.232 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]
+27-Feb-2021 09:58:07.366 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]çé¨ç½²å·²å¨[134]æ¯«ç§åå®æ
+27-Feb-2021 09:58:07.367 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]
+27-Feb-2021 09:58:07.498 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+27-Feb-2021 09:58:07.501 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+27-Feb-2021 09:58:07.516 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]çé¨ç½²å·²å¨[149]æ¯«ç§åå®æ
+27-Feb-2021 09:58:07.517 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]
+27-Feb-2021 09:58:07.603 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]çé¨ç½²å·²å¨[86]æ¯«ç§åå®æ
+27-Feb-2021 09:58:07.603 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]
+27-Feb-2021 09:58:07.671 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]çé¨ç½²å·²å¨[68]æ¯«ç§åå®æ
+27-Feb-2021 09:58:07.674 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+27-Feb-2021 09:58:07.685 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1295 ms
+27-Feb-2021 09:59:38.871 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause æåProtocolHandler["http-nio-8080"]
+27-Feb-2021 09:59:38.896 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal æ­£å¨åæ­¢æå¡[Catalina]
+27-Feb-2021 09:59:38.915 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop æ­£å¨åæ­¢ProtocolHandler ["http-nio-8080"]
+27-Feb-2021 09:59:38.922 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
+27-Feb-2021 10:12:46.642 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬: Apache Tomcat/@VERSION@
+27-Feb-2021 10:12:46.657 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:        @VERSION_BUILT@
+27-Feb-2021 10:12:46.658 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨çæ¬å·:      @VERSION_NUMBER@
+27-Feb-2021 10:12:46.659 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æä½ç³»ç»åç§°:      Mac OS X
+27-Feb-2021 10:12:46.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:           10.16
+27-Feb-2021 10:12:46.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:              x86_64
+27-Feb-2021 10:12:46.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:     /Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/jre
+27-Feb-2021 10:12:46.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Javaèææºçæ¬:    1.8.0_241-b07
+27-Feb-2021 10:12:46.660 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:        Oracle Corporation
+27-Feb-2021 10:12:46.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 10:12:46.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     /Users/jerrylz/IdeaProjects/tomcat-src/catalina-home
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:55313,suspend=y,server=n
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.home=catalina-home
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dcatalina.base=catalina-home
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.endorsed.dirs=catalina-home/endorsed
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.io.tmpdir=catalina-home/temp
+27-Feb-2021 10:12:46.663 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2021 10:12:46.664 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+27-Feb-2021 10:12:46.664 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -javaagent:/Users/jerrylz/Library/Caches/IntelliJIdea2019.3/captureAgent/debugger-agent.jar
+27-Feb-2021 10:12:46.664 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log å½ä»¤è¡åæ°ï¼       -Dfile.encoding=UTF-8
+27-Feb-2021 10:12:46.664 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent å¨java.library.path:[/Users/jerrylz/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]ä¸æ¾ä¸å°åºäºAPRçApache Tomcatæ¬æºåºï¼è¯¥åºåè®¸å¨çäº§ç¯å¢ä¸­è·å¾æä½³æ§è½
+27-Feb-2021 10:12:47.006 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+27-Feb-2021 10:12:47.097 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Feb-2021 10:12:47.135 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1561 ms
+27-Feb-2021 10:12:47.209 信息 [main] org.apache.catalina.core.StandardService.startInternal æ­£å¨å¯å¨æå¡[Catalina]
+27-Feb-2021 10:12:47.209 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+27-Feb-2021 10:12:47.354 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]
+27-Feb-2021 10:12:48.043 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/docs]çé¨ç½²å·²å¨[671]æ¯«ç§åå®æ
+27-Feb-2021 10:12:48.044 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]
+27-Feb-2021 10:12:48.227 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/manager]çé¨ç½²å·²å¨[183]æ¯«ç§åå®æ
+27-Feb-2021 10:12:48.227 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]
+27-Feb-2021 10:12:48.473 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ä¸ä¸ªæå¤ä¸ªlistenerså¯å¨å¤±è´¥ï¼æ´å¤è¯¦ç»ä¿¡æ¯æ¥çå¯¹åºçå®¹å¨æ¥å¿æä»¶
+27-Feb-2021 10:12:48.476 严重 [localhost-startStop-1] org.apache.catalina.core.StandardContext.startInternal ç±äºä¹åçéè¯¯ï¼Context[/examples]å¯å¨å¤±è´¥
+27-Feb-2021 10:12:48.496 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/examples]çé¨ç½²å·²å¨[268]æ¯«ç§åå®æ
+27-Feb-2021 10:12:48.496 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]
+27-Feb-2021 10:12:48.585 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/ROOT]çé¨ç½²å·²å¨[88]æ¯«ç§åå®æ
+27-Feb-2021 10:12:48.585 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory æweb åºç¨ç¨åºé¨ç½²å°ç®å½ [/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]
+27-Feb-2021 10:12:48.690 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Webåºç¨ç¨åºç®å½[/Users/jerrylz/IdeaProjects/tomcat-src/catalina-home/webapps/host-manager]çé¨ç½²å·²å¨[105]æ¯«ç§åå®æ
+27-Feb-2021 10:12:48.697 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+27-Feb-2021 10:12:48.719 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 1583 ms
+27-Feb-2021 10:18:50.397 信息 [Thread-4] org.apache.coyote.AbstractProtocol.pause æåProtocolHandler["http-nio-8080"]
+27-Feb-2021 10:18:50.409 信息 [Thread-4] org.apache.catalina.core.StandardService.stopInternal æ­£å¨åæ­¢æå¡[Catalina]
+27-Feb-2021 10:18:50.458 信息 [Thread-4] org.apache.coyote.AbstractProtocol.stop æ­£å¨åæ­¢ProtocolHandler ["http-nio-8080"]
+27-Feb-2021 10:18:50.468 信息 [Thread-4] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
